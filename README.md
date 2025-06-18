@@ -27,6 +27,7 @@ Bu proje, Entity Framework ve SQL sorgularını birlikte kullanarak geliştirilm
 Bazı analizler hem **doğrudan SQL sorgusu** hem de **Entity Framework LINQ** kullanılarak yapılmıştır. Bu, performans ve okunabilirlik açısından farkların gözlemlenmesini sağlar.
 
 📸 Ekran Görüntüsü
+
 ![istatistikler](https://github.com/user-attachments/assets/fb8235b0-dd45-4c03-87e8-abe2e3784833)
 
 
