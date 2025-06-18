@@ -32,6 +32,7 @@ Bazı analizler hem **doğrudan SQL sorgusu** hem de **Entity Framework LINQ** k
 
 
 🧪 Öğrenilenler
+
 SQL ve EF performans karşılaştırması
 
 LINQ ile karmaşık sorguların nasıl yazılacağı
